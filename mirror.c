@@ -8,6 +8,7 @@
 #include <string.h>
 #include <stdbool.h>
 
+//Holds the reversed word and length.
 typedef struct reversedWordsStruct
 {
 	char word[50];
